@@ -23,9 +23,7 @@ function App() {
     <RedColors/>
     <div className="header"><h1>Grey-Black</h1></div>
     <GreyColors/>
-    <h3 id="intro">Made with ❤️ by Shubham Jadhav</h3>
-    <h2 id="intro-1">- A Android & Web-Enthusiast</h2>
-    <h1 id="intro-2">A React Js Project!</h1>
+    <h3 id="intro">Made with ❤️ by Vedang Jadhav</h3>
     <Footer/>
   
     </>
